@@ -27,7 +27,7 @@ You need a web browser to open the `index.html` file.
 1. Clone the repository or download the ZIP file.
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/mrthomas02/expense-tracker.git
 
 ### Folder Structure
 
